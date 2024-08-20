@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f8ff; /* Cor de fundo */
+    color: #333; /* Cor da fonte */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50; /* Cor do fundo do cabeçalho */
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.info {
+    padding: 10px;
+    text-align: center;
+}
+
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+.content h2 {
+    color: #4CAF50; /* Cor do título */
+}
+
+.content p {
+    margin: 15px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0;
+}
