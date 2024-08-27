@@ -1,13 +1,13 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f0f8ff; /* Cor de fundo */
-    color: #333; /* Cor da fonte */
+    background-color: #60c3db; /* Cor de fundo */
+    color: #33333300; /* Cor da fonte */
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #4CAF50; /* Cor do fundo do cabeçalho */
+    background-color: #4caf99; /* Cor do fundo do cabeçalho */
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -28,7 +28,7 @@ h1 {
 }
 
 .content h2 {
-    color: #4CAF50; /* Cor do título */
+    color: #155674; /* Cor do título */
 }
 
 .content p {
